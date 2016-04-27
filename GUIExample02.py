@@ -1,3 +1,5 @@
+#coded by === Dipayan Dutta
+'''basic Example code of python Tkinter to get the Entry value using the get() method '''
 import Tkinter
 import tkMessageBox
 
